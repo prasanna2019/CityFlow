@@ -6,3 +6,5 @@ redis
 aiosqlite
 email-validator
 asyncpg
+uvicorn
+gunicorn
